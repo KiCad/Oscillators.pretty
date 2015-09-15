@@ -20,4 +20,9 @@
   (pad 7 thru_hole circle (at 7.62 3.81) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 8 thru_hole circle (at 7.62 -3.81) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 14 thru_hole circle (at -7.62 -3.81) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (model Oscillators.3dshapes/KXO-200.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -27,4 +27,9 @@
   (pad 8 thru_hole circle (at -3.81 -3.81) (size 1.651 1.651) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 5 thru_hole circle (at 3.81 -3.81) (size 1.651 1.651) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at 3.81 3.81) (size 1.651 1.651) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (model Oscillators.3dshapes/OSC_DIP8.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
