@@ -1,11 +1,11 @@
-(module Crystal_SMD_Epson_SG8002LB-4pin_5.0x3.2mm (layer F.Cu) (tedit 5873DF87)
-  (descr "SMD Crystal Epson SG-8002LB https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 5.0x3.2mm^2 package")
+(module Oscillator_SMD_SeikoEpson_SG8002LB-4pin_5.0x3.2mm (layer F.Cu) (tedit 5873E372)
+  (descr "SMD Crystal Oscillator Seiko Epson SG-8002LB https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 5.0x3.2mm^2 package")
   (tags "SMD SMT crystal oscillator")
   (attr smd)
   (fp_text reference REF** (at 0 -2.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Crystal_SMD_Epson_SG8002LB-4pin_5.0x3.2mm (at 0 2.85) (layer F.Fab)
+  (fp_text value Oscillator_SMD_SeikoEpson_SG8002LB-4pin_5.0x3.2mm (at 0 2.85) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end 0.25 0) (layer F.Adhes) (width 0.1))
@@ -35,7 +35,7 @@
   (pad 2 smd rect (at 1.27 1.1) (size 1.6 1.5) (layers F.Cu F.Mask))
   (pad 3 smd rect (at 1.27 -1.1) (size 1.6 1.5) (layers F.Cu F.Mask))
   (pad 4 smd rect (at -1.27 -1.1) (size 1.6 1.5) (layers F.Cu F.Mask))
-  (model Oscillators.3dshapes/Crystal_SMD_Epson_SG8002LB-4pin_5.0x3.2mm.wrl
+  (model Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG8002LB-4pin_5.0x3.2mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
