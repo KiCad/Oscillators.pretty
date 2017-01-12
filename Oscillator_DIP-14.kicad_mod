@@ -1,4 +1,4 @@
-(module Oscillator_DIP-14 (layer F.Cu) (tedit 586FE415)
+(module Oscillator_DIP-14 (layer F.Cu) (tedit 58776353)
   (descr "Oscillator, DIP14, http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf")
   (tags oscillator)
   (fp_text reference REF** (at 7.62 -11.26) (layer F.SilkS)
@@ -37,8 +37,8 @@
   (pad 8 thru_hole circle (at 15.24 -7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 15.24 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (model Oscillators.3dshapes/Oscillator_DIP-14.wrl
-    (at (xyz 0.3 0.15 0))
-    (scale (xyz 1 1 1))
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )
 )
